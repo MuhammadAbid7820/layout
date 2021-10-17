@@ -1,0 +1,25 @@
+.header{
+    background-color:green ;
+   color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+#maincontent{
+display: flex;
+}
+#nav{
+    width: 30%;
+    height: 160px;
+    background-color: yellow;
+    padding: 10px;
+}
+#nav > div{
+    border: 1px solid blue;
+    background-color: chocolate;
+    color: black;
+    padding: 10px;
+}
+#text{
+    margin: 20px 0px 0px 25px;
+}
